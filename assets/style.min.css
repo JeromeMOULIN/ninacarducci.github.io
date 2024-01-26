@@ -80,14 +80,15 @@ body {
 .about-me__title {
     margin-top: 1em;
     margin-bottom: 60px;
-    font-size: 30px
+    font-size: 20px;
 }
 
 .about-me__introduction {
     font-family: 'Spectral';
     font-weight: 800;
     font-style: italic;
-    width: 60%
+    width: 50%;
+    font-size: 1.3rem;
 }
 
 #about-me p {
